@@ -1,8 +1,0 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        dict ={}
-        for i,j in enumerate(nums):
-            a=target-j
-            if a in dict:
-                return [dict[a],i]
-            dict[j]=i
