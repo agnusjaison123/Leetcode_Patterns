@@ -2,7 +2,7 @@
 ## Two Pointers
 ---------
 ### Opposite direction
-- Two Sum Sorted
+- [Two Sum](https://github.com/agnusjaison123/Leetcode_Patterns/blob/main/Two%20Sum)
 - Valid Paliandrome
 - Container with Most Water
 ### Same Direction
