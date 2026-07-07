@@ -6,9 +6,11 @@
 - Do you need O(1) extra space? → Yes → Two Pointers
 ---------
 ### Opposite direction
-- [Two Sum Sorted](https://github.com/agnusjaison123/Leetcode_Patterns/blob/main/Two%20Sum)
+- Two Sum Sorted
 - Valid Paliandrome
 - Container with Most Water
+- Three Sum
+- Reverse String
 ### Same Direction
 - Remove Duplicates
 - Move Zeros
